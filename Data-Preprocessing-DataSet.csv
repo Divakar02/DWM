@@ -1,0 +1,8 @@
+Age,Salary,City,Purchased
+25.0,50000.0,New York,No
+,54000.0,San Francisco,Yes
+35.0,61000.0,New York,No
+45.0,,Los Angeles,No
+22.0,52000.0,San Francisco,Yes
+,48000.0,New York,Yes
+38.0,59000.0,Los Angeles,No
